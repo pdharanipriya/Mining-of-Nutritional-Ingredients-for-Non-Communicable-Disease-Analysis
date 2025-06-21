@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const HUGGINGFACE_API_KEY = "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"; // Hugging Face API Key
+const HUGGINGFACE_API_KEY = "your_api_key"; // Hugging Face API Key
 
 let foodData = [];
 
