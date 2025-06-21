@@ -1,0 +1,901 @@
+Food Name,Food Category,Nutrient,Amount per 100g,Safe Limit,Toxicity Limit,Unit,Associated NCD
+Almonds,Nuts & Seeds,Saturated Fat,27.82,20.0,50,g,Heart Disease
+Almonds,Nuts & Seeds,Sugar,26.07,50.0,100,g,Diabetes
+Almonds,Nuts & Seeds,Vitamin C,112.31,90.0,2000,mg,Gastrointestinal Issues
+Almonds,Nuts & Seeds,Fat,29.05,70.0,100,g,Obesity
+Almonds,Nuts & Seeds,Sodium,1042.88,2300.0,3500,mg,Hypertension
+Almonds,Nuts & Seeds,Cholesterol,442.31,300.0,500,mg,Heart Disease
+Almonds,Nuts & Seeds,Vitamin E,9.17,15.0,1000,mg,Bleeding Issues
+Almonds,Nuts & Seeds,Folic Acid,87.16,400.0,1000,mcg,Neurological Issues
+Apple,Fruit,Vitamin D,3647.1,4000.0,10000,IU,Toxicity Symptoms
+Apple,Fruit,Cholesterol,98.87,300.0,500,mg,Heart Disease
+Apple,Fruit,Saturated Fat,20.15,20.0,50,g,Heart Disease
+Apple,Fruit,Fiber,18.46,30.0,50,g,Digestive Issues
+Apple,Fruit,Carbohydrates,132.33,250.0,400,g,Obesity
+Apple,Fruit,Folic Acid,356.17,400.0,1000,mcg,Neurological Issues
+Apple,Fruit,Zinc,11.35,11.0,40,mg,Immune Dysfunction
+Apple,Fruit,Omega-3,4.46,3.0,5,g,Blood Clot Issues
+Apple,Fruit,Sodium,788.32,2300.0,3500,mg,Hypertension
+Apple,Fruit,Magnesium,122.34,400.0,1000,mg,Nerve Damage
+Apple,Fruit,Protein,71.12,50.0,200,g,Kidney Damage
+Apple,Fruit,Calcium,1090.5,1000.0,2500,mg,Kidney Stones
+Apple,Fruit,Vitamin B12,3.46,2.4,500,mcg,Neurological Issues
+Avocado,Fruit,Iron,16.36,18.0,45,mg,Liver Damage
+Avocado,Fruit,Omega-3,1.57,3.0,5,g,Blood Clot Issues
+Avocado,Fruit,Copper,1.07,0.9,10,mg,Liver Damage
+Avocado,Fruit,Zinc,15.41,11.0,40,mg,Immune Dysfunction
+Avocado,Fruit,Cholesterol,212.77,300.0,500,mg,Heart Disease
+Avocado,Fruit,Phosphorus,266.29,700.0,4000,mg,Bone Loss
+Avocado,Fruit,Vitamin B12,1.46,2.4,500,mcg,Neurological Issues
+Avocado,Fruit,Sodium,2814.07,2300.0,3500,mg,Hypertension
+Avocado,Fruit,Vitamin D,2211.37,4000.0,10000,IU,Toxicity Symptoms
+Avocado,Fruit,Folic Acid,275.36,400.0,1000,mcg,Neurological Issues
+Avocado,Fruit,Magnesium,410.64,400.0,1000,mg,Nerve Damage
+Banana,Fruit,Folic Acid,360.8,400.0,1000,mcg,Neurological Issues
+Banana,Fruit,Vitamin C,109.44,90.0,2000,mg,Gastrointestinal Issues
+Banana,Fruit,Fiber,43.51,30.0,50,g,Digestive Issues
+Banana,Fruit,Vitamin E,10.38,15.0,1000,mg,Bleeding Issues
+Banana,Fruit,Sugar,20.29,50.0,100,g,Diabetes
+Banana,Fruit,Vitamin B12,2.35,2.4,500,mcg,Neurological Issues
+Banana,Fruit,Omega-3,0.95,3.0,5,g,Blood Clot Issues
+Barley,Grains,Cholesterol,124.14,300.0,500,mg,Heart Disease
+Barley,Grains,Manganese,3.25,2.3,11,mg,Neurological Problems
+Barley,Grains,Sugar,53.61,50.0,100,g,Diabetes
+Barley,Grains,Vitamin A,997.65,3000.0,10000,IU,Liver Toxicity
+Barley,Grains,Folic Acid,268.6,400.0,1000,mcg,Neurological Issues
+Barley,Grains,Sodium,1527.24,2300.0,3500,mg,Hypertension
+Barley,Grains,Protein,36.61,50.0,200,g,Kidney Damage
+Barley,Grains,Vitamin B12,0.92,2.4,500,mcg,Neurological Issues
+Barley,Grains,Vitamin C,121.31,90.0,2000,mg,Gastrointestinal Issues
+Barley,Grains,Saturated Fat,29.69,20.0,50,g,Heart Disease
+Barley,Grains,Carbohydrates,347.97,250.0,400,g,Obesity
+Beef,Meat,Carbohydrates,248.96,250.0,400,g,Obesity
+Beef,Meat,Folic Acid,243.03,400.0,1000,mcg,Neurological Issues
+Beef,Meat,Zinc,10.47,11.0,40,mg,Immune Dysfunction
+Beef,Meat,Selenium,74.98,55.0,400,mcg,Selenosis
+Beef,Meat,Saturated Fat,4.05,20.0,50,g,Heart Disease
+Beef,Meat,Vitamin C,75.34,90.0,2000,mg,Gastrointestinal Issues
+Beef,Meat,Vitamin E,4.55,15.0,1000,mg,Bleeding Issues
+Beef,Meat,Manganese,1.43,2.3,11,mg,Neurological Problems
+Beetroot,Root & Tubers,Folic Acid,127.41,400.0,1000,mcg,Neurological Issues
+Beetroot,Root & Tubers,Phosphorus,264.34,700.0,4000,mg,Bone Loss
+Beetroot,Root & Tubers,Copper,1.03,0.9,10,mg,Liver Damage
+Beetroot,Root & Tubers,Vitamin E,13.68,15.0,1000,mg,Bleeding Issues
+Beetroot,Root & Tubers,Manganese,1.16,2.3,11,mg,Neurological Problems
+Beetroot,Root & Tubers,Calcium,1448.01,1000.0,2500,mg,Kidney Stones
+Beetroot,Root & Tubers,Vitamin A,2266.28,3000.0,10000,IU,Liver Toxicity
+Beetroot,Root & Tubers,Vitamin C,86.26,90.0,2000,mg,Gastrointestinal Issues
+Beetroot,Root & Tubers,Vitamin B6,1.39,1.3,100,mg,Nerve Damage
+Beetroot,Root & Tubers,Omega-3,2.63,3.0,5,g,Blood Clot Issues
+Beetroot,Root & Tubers,Vitamin D,1377.67,4000.0,10000,IU,Toxicity Symptoms
+Beetroot,Root & Tubers,Potassium,5246.16,3500.0,4700,mg,Hyperkalemia
+Beetroot,Root & Tubers,Iron,6.83,18.0,45,mg,Liver Damage
+Beetroot,Root & Tubers,Fat,87.38,70.0,100,g,Obesity
+Bell Pepper,Vegetable,Cholesterol,100.81,300.0,500,mg,Heart Disease
+Bell Pepper,Vegetable,Carbohydrates,298.95,250.0,400,g,Obesity
+Bell Pepper,Vegetable,Omega-3,1.05,3.0,5,g,Blood Clot Issues
+Bell Pepper,Vegetable,Saturated Fat,20.45,20.0,50,g,Heart Disease
+Bell Pepper,Vegetable,Copper,1.08,0.9,10,mg,Liver Damage
+Bell Pepper,Vegetable,Vitamin A,2320.97,3000.0,10000,IU,Liver Toxicity
+Bell Pepper,Vegetable,Phosphorus,277.65,700.0,4000,mg,Bone Loss
+Bell Pepper,Vegetable,Calcium,343.14,1000.0,2500,mg,Kidney Stones
+Bell Pepper,Vegetable,Fiber,26.84,30.0,50,g,Digestive Issues
+Black Beans,Legumes,Folic Acid,358.99,400.0,1000,mcg,Neurological Issues
+Black Beans,Legumes,Fiber,8.83,30.0,50,g,Digestive Issues
+Black Beans,Legumes,Selenium,68.57,55.0,400,mcg,Selenosis
+Black Beans,Legumes,Sugar,17.85,50.0,100,g,Diabetes
+Black Beans,Legumes,Vitamin C,53.03,90.0,2000,mg,Gastrointestinal Issues
+Black Beans,Legumes,Manganese,0.52,2.3,11,mg,Neurological Problems
+Black Beans,Legumes,Fat,84.7,70.0,100,g,Obesity
+Black Beans,Legumes,Protein,22.56,50.0,200,g,Kidney Damage
+Black Beans,Legumes,Vitamin A,960.7,3000.0,10000,IU,Liver Toxicity
+Black Beans,Legumes,Omega-3,2.09,3.0,5,g,Blood Clot Issues
+Blueberry,Fruit,Sugar,60.52,50.0,100,g,Diabetes
+Blueberry,Fruit,Omega-3,3.2,3.0,5,g,Blood Clot Issues
+Blueberry,Fruit,Vitamin C,77.01,90.0,2000,mg,Gastrointestinal Issues
+Blueberry,Fruit,Vitamin K,156.23,120.0,500,mcg,Blood Clotting Issues
+Blueberry,Fruit,Vitamin B6,1.65,1.3,100,mg,Nerve Damage
+Blueberry,Fruit,Copper,0.48,0.9,10,mg,Liver Damage
+Blueberry,Fruit,Potassium,1151.01,3500.0,4700,mg,Hyperkalemia
+Blueberry,Fruit,Fiber,31.86,30.0,50,g,Digestive Issues
+Blueberry,Fruit,Carbohydrates,69.49,250.0,400,g,Obesity
+Blueberry,Fruit,Iron,19.93,18.0,45,mg,Liver Damage
+Blueberry,Fruit,Selenium,64.85,55.0,400,mcg,Selenosis
+Broccoli,Vegetable,Sugar,63.03,50.0,100,g,Diabetes
+Broccoli,Vegetable,Vitamin E,6.22,15.0,1000,mg,Bleeding Issues
+Broccoli,Vegetable,Vitamin K,145.54,120.0,500,mcg,Blood Clotting Issues
+Broccoli,Vegetable,Zinc,3.86,11.0,40,mg,Immune Dysfunction
+Broccoli,Vegetable,Vitamin B12,1.43,2.4,500,mcg,Neurological Issues
+Broccoli,Vegetable,Copper,0.18,0.9,10,mg,Liver Damage
+Broccoli,Vegetable,Protein,57.67,50.0,200,g,Kidney Damage
+Broccoli,Vegetable,Selenium,11.92,55.0,400,mcg,Selenosis
+Broccoli,Vegetable,Sodium,2792.82,2300.0,3500,mg,Hypertension
+Broccoli,Vegetable,Vitamin B6,1.64,1.3,100,mg,Nerve Damage
+Brown Rice,Grains,Vitamin C,112.95,90.0,2000,mg,Gastrointestinal Issues
+Brown Rice,Grains,Sodium,772.8,2300.0,3500,mg,Hypertension
+Brown Rice,Grains,Calcium,1428.11,1000.0,2500,mg,Kidney Stones
+Brown Rice,Grains,Manganese,2.14,2.3,11,mg,Neurological Problems
+Brown Rice,Grains,Vitamin E,11.5,15.0,1000,mg,Bleeding Issues
+Brown Rice,Grains,Copper,0.58,0.9,10,mg,Liver Damage
+Brown Rice,Grains,Fiber,8.25,30.0,50,g,Digestive Issues
+Brown Rice,Grains,Protein,31.63,50.0,200,g,Kidney Damage
+Brussels Sprouts,Vegetable,Vitamin C,91.04,90.0,2000,mg,Gastrointestinal Issues
+Brussels Sprouts,Vegetable,Vitamin K,146.5,120.0,500,mcg,Blood Clotting Issues
+Brussels Sprouts,Vegetable,Zinc,2.86,11.0,40,mg,Immune Dysfunction
+Brussels Sprouts,Vegetable,Copper,1.26,0.9,10,mg,Liver Damage
+Brussels Sprouts,Vegetable,Manganese,3.27,2.3,11,mg,Neurological Problems
+Brussels Sprouts,Vegetable,Protein,63.16,50.0,200,g,Kidney Damage
+Brussels Sprouts,Vegetable,Vitamin E,7.87,15.0,1000,mg,Bleeding Issues
+Brussels Sprouts,Vegetable,Selenium,67.78,55.0,400,mcg,Selenosis
+Brussels Sprouts,Vegetable,Iron,10.32,18.0,45,mg,Liver Damage
+Brussels Sprouts,Vegetable,Vitamin A,856.48,3000.0,10000,IU,Liver Toxicity
+Brussels Sprouts,Vegetable,Cholesterol,425.77,300.0,500,mg,Heart Disease
+Brussels Sprouts,Vegetable,Folic Acid,81.18,400.0,1000,mcg,Neurological Issues
+Butter,Dairy,Cholesterol,339.65,300.0,500,mg,Heart Disease
+Butter,Dairy,Potassium,809.84,3500.0,4700,mg,Hyperkalemia
+Butter,Dairy,Sodium,1941.9,2300.0,3500,mg,Hypertension
+Butter,Dairy,Carbohydrates,278.19,250.0,400,g,Obesity
+Butter,Dairy,Saturated Fat,17.39,20.0,50,g,Heart Disease
+Butter,Dairy,Vitamin A,3551.22,3000.0,10000,IU,Liver Toxicity
+Butter,Dairy,Phosphorus,725.64,700.0,4000,mg,Bone Loss
+Butter,Dairy,Vitamin D,3107.45,4000.0,10000,IU,Toxicity Symptoms
+Butter,Dairy,Manganese,0.57,2.3,11,mg,Neurological Problems
+Butter,Dairy,Vitamin B6,1.77,1.3,100,mg,Nerve Damage
+Butter,Dairy,Zinc,6.18,11.0,40,mg,Immune Dysfunction
+Butter,Dairy,Protein,73.8,50.0,200,g,Kidney Damage
+Carrot,Vegetable,Copper,1.13,0.9,10,mg,Liver Damage
+Carrot,Vegetable,Magnesium,425.56,400.0,1000,mg,Nerve Damage
+Carrot,Vegetable,Fat,14.71,70.0,100,g,Obesity
+Carrot,Vegetable,Vitamin K,107.01,120.0,500,mcg,Blood Clotting Issues
+Carrot,Vegetable,Phosphorus,299.04,700.0,4000,mg,Bone Loss
+Carrot,Vegetable,Omega-3,1.31,3.0,5,g,Blood Clot Issues
+Cashews,Nuts & Seeds,Sugar,54.78,50.0,100,g,Diabetes
+Cashews,Nuts & Seeds,Manganese,1.21,2.3,11,mg,Neurological Problems
+Cashews,Nuts & Seeds,Phosphorus,614.08,700.0,4000,mg,Bone Loss
+Cashews,Nuts & Seeds,Saturated Fat,8.41,20.0,50,g,Heart Disease
+Cashews,Nuts & Seeds,Vitamin D,2367.98,4000.0,10000,IU,Toxicity Symptoms
+Cashews,Nuts & Seeds,Vitamin E,16.55,15.0,1000,mg,Bleeding Issues
+Cashews,Nuts & Seeds,Potassium,2327.29,3500.0,4700,mg,Hyperkalemia
+Cassava,Root & Tubers,Sugar,17.73,50.0,100,g,Diabetes
+Cassava,Root & Tubers,Vitamin D,3376.18,4000.0,10000,IU,Toxicity Symptoms
+Cassava,Root & Tubers,Phosphorus,1041.22,700.0,4000,mg,Bone Loss
+Cassava,Root & Tubers,Sodium,2350.7,2300.0,3500,mg,Hypertension
+Cassava,Root & Tubers,Fiber,20.82,30.0,50,g,Digestive Issues
+Cassava,Root & Tubers,Vitamin K,44.45,120.0,500,mcg,Blood Clotting Issues
+Cassava,Root & Tubers,Magnesium,324.99,400.0,1000,mg,Nerve Damage
+Cassava,Root & Tubers,Zinc,5.56,11.0,40,mg,Immune Dysfunction
+Cauliflower,Vegetable,Sodium,2794.33,2300.0,3500,mg,Hypertension
+Cauliflower,Vegetable,Copper,0.96,0.9,10,mg,Liver Damage
+Cauliflower,Vegetable,Iron,19.68,18.0,45,mg,Liver Damage
+Cauliflower,Vegetable,Vitamin K,108.43,120.0,500,mcg,Blood Clotting Issues
+Cauliflower,Vegetable,Carbohydrates,208.11,250.0,400,g,Obesity
+Cauliflower,Vegetable,Zinc,6.02,11.0,40,mg,Immune Dysfunction
+Cauliflower,Vegetable,Potassium,5244.8,3500.0,4700,mg,Hyperkalemia
+Cheese,Dairy,Vitamin E,3.44,15.0,1000,mg,Bleeding Issues
+Cheese,Dairy,Selenium,62.04,55.0,400,mcg,Selenosis
+Cheese,Dairy,Fat,37.08,70.0,100,g,Obesity
+Cheese,Dairy,Sodium,2660.06,2300.0,3500,mg,Hypertension
+Cheese,Dairy,Zinc,10.18,11.0,40,mg,Immune Dysfunction
+Cheese,Dairy,Vitamin C,37.87,90.0,2000,mg,Gastrointestinal Issues
+Cheese,Dairy,Potassium,1954.89,3500.0,4700,mg,Hyperkalemia
+Cheese,Dairy,Folic Acid,184.67,400.0,1000,mcg,Neurological Issues
+Cheese,Dairy,Iron,11.66,18.0,45,mg,Liver Damage
+Cherries,Fruit,Vitamin B6,0.34,1.3,100,mg,Nerve Damage
+Cherries,Fruit,Fiber,26.05,30.0,50,g,Digestive Issues
+Cherries,Fruit,Carbohydrates,271.7,250.0,400,g,Obesity
+Cherries,Fruit,Magnesium,394.13,400.0,1000,mg,Nerve Damage
+Cherries,Fruit,Saturated Fat,27.86,20.0,50,g,Heart Disease
+Cherries,Fruit,Vitamin B12,2.57,2.4,500,mcg,Neurological Issues
+Cherries,Fruit,Omega-3,3.72,3.0,5,g,Blood Clot Issues
+Cherries,Fruit,Vitamin A,2934.23,3000.0,10000,IU,Liver Toxicity
+Cherries,Fruit,Protein,31.46,50.0,200,g,Kidney Damage
+Chia Seeds,Nuts & Seeds,Selenium,14.52,55.0,400,mcg,Selenosis
+Chia Seeds,Nuts & Seeds,Manganese,3.3,2.3,11,mg,Neurological Problems
+Chia Seeds,Nuts & Seeds,Vitamin D,1382.09,4000.0,10000,IU,Toxicity Symptoms
+Chia Seeds,Nuts & Seeds,Fiber,12.28,30.0,50,g,Digestive Issues
+Chia Seeds,Nuts & Seeds,Magnesium,386.67,400.0,1000,mg,Nerve Damage
+Chicken,Meat,Vitamin C,78.4,90.0,2000,mg,Gastrointestinal Issues
+Chicken,Meat,Vitamin B6,1.48,1.3,100,mg,Nerve Damage
+Chicken,Meat,Potassium,2107.99,3500.0,4700,mg,Hyperkalemia
+Chicken,Meat,Folic Acid,332.09,400.0,1000,mcg,Neurological Issues
+Chickpeas,Legumes,Potassium,2725.61,3500.0,4700,mg,Hyperkalemia
+Chickpeas,Legumes,Calcium,478.5,1000.0,2500,mg,Kidney Stones
+Chickpeas,Legumes,Carbohydrates,150.6,250.0,400,g,Obesity
+Chickpeas,Legumes,Protein,63.43,50.0,200,g,Kidney Damage
+Chickpeas,Legumes,Zinc,6.95,11.0,40,mg,Immune Dysfunction
+Clams,Fish & Seafood,Folic Acid,166.64,400.0,1000,mcg,Neurological Issues
+Clams,Fish & Seafood,Copper,0.18,0.9,10,mg,Liver Damage
+Clams,Fish & Seafood,Sodium,1230.95,2300.0,3500,mg,Hypertension
+Clams,Fish & Seafood,Vitamin B12,2.83,2.4,500,mcg,Neurological Issues
+Clams,Fish & Seafood,Fat,96.56,70.0,100,g,Obesity
+Clams,Fish & Seafood,Sugar,33.54,50.0,100,g,Diabetes
+Clams,Fish & Seafood,Zinc,11.89,11.0,40,mg,Immune Dysfunction
+Clams,Fish & Seafood,Manganese,2.73,2.3,11,mg,Neurological Problems
+Cocoa,Beverages & Others,Vitamin K,167.02,120.0,500,mcg,Blood Clotting Issues
+Cocoa,Beverages & Others,Calcium,947.86,1000.0,2500,mg,Kidney Stones
+Cocoa,Beverages & Others,Sugar,28.91,50.0,100,g,Diabetes
+Cocoa,Beverages & Others,Carbohydrates,128.58,250.0,400,g,Obesity
+Cocoa,Beverages & Others,Magnesium,88.72,400.0,1000,mg,Nerve Damage
+Cocoa,Beverages & Others,Copper,1.0,0.9,10,mg,Liver Damage
+Coconut,Fruit,Fiber,13.25,30.0,50,g,Digestive Issues
+Coconut,Fruit,Folic Acid,315.33,400.0,1000,mcg,Neurological Issues
+Coconut,Fruit,Cholesterol,301.91,300.0,500,mg,Heart Disease
+Coconut,Fruit,Phosphorus,676.52,700.0,4000,mg,Bone Loss
+Coconut,Fruit,Magnesium,557.44,400.0,1000,mg,Nerve Damage
+Coconut,Fruit,Calcium,1418.91,1000.0,2500,mg,Kidney Stones
+Coconut,Fruit,Vitamin B6,0.44,1.3,100,mg,Nerve Damage
+Coconut,Fruit,Fat,48.52,70.0,100,g,Obesity
+Coconut,Fruit,Manganese,0.74,2.3,11,mg,Neurological Problems
+Coffee,Beverages & Others,Potassium,4303.5,3500.0,4700,mg,Hyperkalemia
+Coffee,Beverages & Others,Copper,0.84,0.9,10,mg,Liver Damage
+Coffee,Beverages & Others,Folic Acid,489.81,400.0,1000,mcg,Neurological Issues
+Coffee,Beverages & Others,Zinc,10.87,11.0,40,mg,Immune Dysfunction
+Coffee,Beverages & Others,Selenium,57.26,55.0,400,mcg,Selenosis
+Coffee,Beverages & Others,Protein,37.09,50.0,200,g,Kidney Damage
+Coffee,Beverages & Others,Vitamin A,2307.84,3000.0,10000,IU,Liver Toxicity
+Corn,Grains,Cholesterol,302.05,300.0,500,mg,Heart Disease
+Corn,Grains,Potassium,2767.67,3500.0,4700,mg,Hyperkalemia
+Corn,Grains,Iron,23.48,18.0,45,mg,Liver Damage
+Corn,Grains,Magnesium,575.52,400.0,1000,mg,Nerve Damage
+Corn,Grains,Vitamin E,9.86,15.0,1000,mg,Bleeding Issues
+Corn,Grains,Fiber,39.8,30.0,50,g,Digestive Issues
+Corn,Grains,Calcium,914.66,1000.0,2500,mg,Kidney Stones
+Corn,Grains,Vitamin K,154.05,120.0,500,mcg,Blood Clotting Issues
+Cottage Cheese,Dairy,Fat,31.48,70.0,100,g,Obesity
+Cottage Cheese,Dairy,Selenium,66.63,55.0,400,mcg,Selenosis
+Cottage Cheese,Dairy,Vitamin B12,3.07,2.4,500,mcg,Neurological Issues
+Cottage Cheese,Dairy,Protein,52.53,50.0,200,g,Kidney Damage
+Cottage Cheese,Dairy,Iron,9.84,18.0,45,mg,Liver Damage
+Cottage Cheese,Dairy,Vitamin A,1217.03,3000.0,10000,IU,Liver Toxicity
+Cottage Cheese,Dairy,Vitamin B6,0.5,1.3,100,mg,Nerve Damage
+Crab,Fish & Seafood,Selenium,42.9,55.0,400,mcg,Selenosis
+Crab,Fish & Seafood,Iron,7.01,18.0,45,mg,Liver Damage
+Crab,Fish & Seafood,Potassium,766.38,3500.0,4700,mg,Hyperkalemia
+Crab,Fish & Seafood,Vitamin A,4043.88,3000.0,10000,IU,Liver Toxicity
+Crab,Fish & Seafood,Fat,42.53,70.0,100,g,Obesity
+Crab,Fish & Seafood,Saturated Fat,21.14,20.0,50,g,Heart Disease
+Cream,Dairy,Carbohydrates,259.8,250.0,400,g,Obesity
+Cream,Dairy,Protein,21.47,50.0,200,g,Kidney Damage
+Cream,Dairy,Vitamin C,51.86,90.0,2000,mg,Gastrointestinal Issues
+Cream,Dairy,Manganese,1.17,2.3,11,mg,Neurological Problems
+Cream,Dairy,Fat,103.46,70.0,100,g,Obesity
+Cream,Dairy,Omega-3,2.3,3.0,5,g,Blood Clot Issues
+Cream,Dairy,Vitamin D,5293.87,4000.0,10000,IU,Toxicity Symptoms
+Cream,Dairy,Fiber,42.76,30.0,50,g,Digestive Issues
+Cream,Dairy,Phosphorus,754.49,700.0,4000,mg,Bone Loss
+Cream,Dairy,Copper,1.25,0.9,10,mg,Liver Damage
+Cucumber,Vegetable,Copper,0.92,0.9,10,mg,Liver Damage
+Cucumber,Vegetable,Potassium,4560.07,3500.0,4700,mg,Hyperkalemia
+Cucumber,Vegetable,Cholesterol,367.97,300.0,500,mg,Heart Disease
+Cucumber,Vegetable,Iron,9.24,18.0,45,mg,Liver Damage
+Cucumber,Vegetable,Vitamin C,18.67,90.0,2000,mg,Gastrointestinal Issues
+Cucumber,Vegetable,Calcium,1471.72,1000.0,2500,mg,Kidney Stones
+Cucumber,Vegetable,Magnesium,91.97,400.0,1000,mg,Nerve Damage
+Cucumber,Vegetable,Vitamin B12,2.63,2.4,500,mcg,Neurological Issues
+Cucumber,Vegetable,Phosphorus,192.33,700.0,4000,mg,Bone Loss
+Cucumber,Vegetable,Fat,100.06,70.0,100,g,Obesity
+Cucumber,Vegetable,Selenium,34.13,55.0,400,mcg,Selenosis
+Cucumber,Vegetable,Omega-3,3.28,3.0,5,g,Blood Clot Issues
+Dark Chocolate,Beverages & Others,Fiber,23.36,30.0,50,g,Digestive Issues
+Dark Chocolate,Beverages & Others,Folic Acid,529.69,400.0,1000,mcg,Neurological Issues
+Dark Chocolate,Beverages & Others,Vitamin A,2276.4,3000.0,10000,IU,Liver Toxicity
+Dark Chocolate,Beverages & Others,Omega-3,1.03,3.0,5,g,Blood Clot Issues
+Dark Chocolate,Beverages & Others,Protein,44.57,50.0,200,g,Kidney Damage
+Dark Chocolate,Beverages & Others,Phosphorus,432.52,700.0,4000,mg,Bone Loss
+Dark Chocolate,Beverages & Others,Vitamin D,5909.44,4000.0,10000,IU,Toxicity Symptoms
+Dark Chocolate,Beverages & Others,Iron,9.3,18.0,45,mg,Liver Damage
+Dark Chocolate,Beverages & Others,Vitamin K,169.67,120.0,500,mcg,Blood Clotting Issues
+Dark Chocolate,Beverages & Others,Calcium,390.41,1000.0,2500,mg,Kidney Stones
+Duck,Meat,Saturated Fat,27.36,20.0,50,g,Heart Disease
+Duck,Meat,Cholesterol,357.91,300.0,500,mg,Heart Disease
+Duck,Meat,Potassium,2199.13,3500.0,4700,mg,Hyperkalemia
+Duck,Meat,Copper,0.4,0.9,10,mg,Liver Damage
+Duck,Meat,Vitamin B6,1.69,1.3,100,mg,Nerve Damage
+Duck,Meat,Fiber,43.23,30.0,50,g,Digestive Issues
+Duck,Meat,Vitamin C,100.11,90.0,2000,mg,Gastrointestinal Issues
+Duck,Meat,Zinc,10.22,11.0,40,mg,Immune Dysfunction
+Duck,Meat,Folic Acid,272.37,400.0,1000,mcg,Neurological Issues
+Duck,Meat,Omega-3,3.35,3.0,5,g,Blood Clot Issues
+Edamame,Legumes,Potassium,4840.29,3500.0,4700,mg,Hyperkalemia
+Edamame,Legumes,Phosphorus,541.37,700.0,4000,mg,Bone Loss
+Edamame,Legumes,Carbohydrates,310.72,250.0,400,g,Obesity
+Edamame,Legumes,Saturated Fat,23.55,20.0,50,g,Heart Disease
+Edamame,Legumes,Vitamin E,10.11,15.0,1000,mg,Bleeding Issues
+Edamame,Legumes,Sugar,60.49,50.0,100,g,Diabetes
+Edamame,Legumes,Manganese,2.13,2.3,11,mg,Neurological Problems
+Edamame,Legumes,Vitamin B12,0.67,2.4,500,mcg,Neurological Issues
+Edamame,Legumes,Vitamin D,1361.05,4000.0,10000,IU,Toxicity Symptoms
+Edamame,Legumes,Vitamin B6,1.53,1.3,100,mg,Nerve Damage
+Egg,Meat,Selenium,34.12,55.0,400,mcg,Selenosis
+Egg,Meat,Fat,16.58,70.0,100,g,Obesity
+Egg,Meat,Vitamin E,19.52,15.0,1000,mg,Bleeding Issues
+Egg,Meat,Omega-3,0.64,3.0,5,g,Blood Clot Issues
+Egg,Meat,Vitamin C,53.97,90.0,2000,mg,Gastrointestinal Issues
+Egg,Meat,Sodium,1734.95,2300.0,3500,mg,Hypertension
+Fig,Fruit,Vitamin C,105.08,90.0,2000,mg,Gastrointestinal Issues
+Fig,Fruit,Zinc,2.3,11.0,40,mg,Immune Dysfunction
+Fig,Fruit,Vitamin D,5720.33,4000.0,10000,IU,Toxicity Symptoms
+Fig,Fruit,Omega-3,2.0,3.0,5,g,Blood Clot Issues
+Fig,Fruit,Calcium,268.99,1000.0,2500,mg,Kidney Stones
+Fig,Fruit,Fat,15.34,70.0,100,g,Obesity
+Fig,Fruit,Vitamin B12,1.4,2.4,500,mcg,Neurological Issues
+Fig,Fruit,Saturated Fat,23.43,20.0,50,g,Heart Disease
+Flaxseeds,Nuts & Seeds,Selenium,18.55,55.0,400,mcg,Selenosis
+Flaxseeds,Nuts & Seeds,Iron,7.93,18.0,45,mg,Liver Damage
+Flaxseeds,Nuts & Seeds,Sodium,2618.25,2300.0,3500,mg,Hypertension
+Flaxseeds,Nuts & Seeds,Manganese,2.6,2.3,11,mg,Neurological Problems
+Flaxseeds,Nuts & Seeds,Saturated Fat,11.0,20.0,50,g,Heart Disease
+Flaxseeds,Nuts & Seeds,Vitamin E,8.9,15.0,1000,mg,Bleeding Issues
+Flaxseeds,Nuts & Seeds,Vitamin D,5322.06,4000.0,10000,IU,Toxicity Symptoms
+Flaxseeds,Nuts & Seeds,Vitamin K,126.7,120.0,500,mcg,Blood Clotting Issues
+Flaxseeds,Nuts & Seeds,Omega-3,2.38,3.0,5,g,Blood Clot Issues
+Flaxseeds,Nuts & Seeds,Vitamin B12,0.74,2.4,500,mcg,Neurological Issues
+Garlic,Vegetable,Sodium,759.71,2300.0,3500,mg,Hypertension
+Garlic,Vegetable,Fiber,13.42,30.0,50,g,Digestive Issues
+Garlic,Vegetable,Magnesium,407.02,400.0,1000,mg,Nerve Damage
+Garlic,Vegetable,Vitamin C,31.71,90.0,2000,mg,Gastrointestinal Issues
+Garlic,Vegetable,Fat,91.91,70.0,100,g,Obesity
+Garlic,Vegetable,Saturated Fat,14.2,20.0,50,g,Heart Disease
+Garlic,Vegetable,Folic Acid,253.56,400.0,1000,mcg,Neurological Issues
+Garlic,Vegetable,Omega-3,1.8,3.0,5,g,Blood Clot Issues
+Ginger,Vegetable,Copper,0.42,0.9,10,mg,Liver Damage
+Ginger,Vegetable,Folic Acid,251.5,400.0,1000,mcg,Neurological Issues
+Ginger,Vegetable,Protein,64.39,50.0,200,g,Kidney Damage
+Ginger,Vegetable,Vitamin D,1029.02,4000.0,10000,IU,Toxicity Symptoms
+Ginger,Vegetable,Magnesium,471.07,400.0,1000,mg,Nerve Damage
+Ginger,Vegetable,Saturated Fat,29.08,20.0,50,g,Heart Disease
+Ginger,Vegetable,Selenium,30.22,55.0,400,mcg,Selenosis
+Grapes,Fruit,Vitamin B6,1.38,1.3,100,mg,Nerve Damage
+Grapes,Fruit,Copper,0.19,0.9,10,mg,Liver Damage
+Grapes,Fruit,Vitamin E,14.38,15.0,1000,mg,Bleeding Issues
+Grapes,Fruit,Sugar,28.66,50.0,100,g,Diabetes
+Grapes,Fruit,Phosphorus,972.81,700.0,4000,mg,Bone Loss
+Grapes,Fruit,Protein,23.14,50.0,200,g,Kidney Damage
+Grapes,Fruit,Vitamin D,2214.76,4000.0,10000,IU,Toxicity Symptoms
+Grapes,Fruit,Vitamin B12,2.98,2.4,500,mcg,Neurological Issues
+Green Beans,Legumes,Omega-3,3.24,3.0,5,g,Blood Clot Issues
+Green Beans,Legumes,Sodium,1160.36,2300.0,3500,mg,Hypertension
+Green Beans,Legumes,Selenium,24.82,55.0,400,mcg,Selenosis
+Green Beans,Legumes,Vitamin B12,0.5,2.4,500,mcg,Neurological Issues
+Green Beans,Legumes,Sugar,54.19,50.0,100,g,Diabetes
+Green Beans,Legumes,Vitamin A,1676.16,3000.0,10000,IU,Liver Toxicity
+Green Beans,Legumes,Manganese,1.67,2.3,11,mg,Neurological Problems
+Green Beans,Legumes,Cholesterol,269.59,300.0,500,mg,Heart Disease
+Green Beans,Legumes,Fiber,30.61,30.0,50,g,Digestive Issues
+Green Beans,Legumes,Saturated Fat,27.49,20.0,50,g,Heart Disease
+Green Tea,Beverages & Others,Zinc,7.16,11.0,40,mg,Immune Dysfunction
+Green Tea,Beverages & Others,Vitamin D,4085.79,4000.0,10000,IU,Toxicity Symptoms
+Green Tea,Beverages & Others,Vitamin B12,0.99,2.4,500,mcg,Neurological Issues
+Green Tea,Beverages & Others,Iron,12.16,18.0,45,mg,Liver Damage
+Green Tea,Beverages & Others,Fiber,12.79,30.0,50,g,Digestive Issues
+Green Tea,Beverages & Others,Vitamin K,52.14,120.0,500,mcg,Blood Clotting Issues
+Green Tea,Beverages & Others,Sodium,3374.55,2300.0,3500,mg,Hypertension
+Green Tea,Beverages & Others,Omega-3,3.28,3.0,5,g,Blood Clot Issues
+Green Tea,Beverages & Others,Sugar,66.83,50.0,100,g,Diabetes
+Guava,Fruit,Omega-3,3.84,3.0,5,g,Blood Clot Issues
+Guava,Fruit,Sodium,2710.21,2300.0,3500,mg,Hypertension
+Guava,Fruit,Vitamin D,4923.29,4000.0,10000,IU,Toxicity Symptoms
+Guava,Fruit,Zinc,11.07,11.0,40,mg,Immune Dysfunction
+Guava,Fruit,Cholesterol,394.88,300.0,500,mg,Heart Disease
+Guava,Fruit,Sugar,73.99,50.0,100,g,Diabetes
+Guava,Fruit,Vitamin B12,3.37,2.4,500,mcg,Neurological Issues
+Guava,Fruit,Fat,94.95,70.0,100,g,Obesity
+Guava,Fruit,Protein,23.74,50.0,200,g,Kidney Damage
+Guava,Fruit,Vitamin C,74.01,90.0,2000,mg,Gastrointestinal Issues
+Hazelnuts,Nuts & Seeds,Vitamin B6,1.57,1.3,100,mg,Nerve Damage
+Hazelnuts,Nuts & Seeds,Vitamin A,3224.73,3000.0,10000,IU,Liver Toxicity
+Hazelnuts,Nuts & Seeds,Manganese,3.32,2.3,11,mg,Neurological Problems
+Hazelnuts,Nuts & Seeds,Folic Acid,511.05,400.0,1000,mcg,Neurological Issues
+Hazelnuts,Nuts & Seeds,Cholesterol,402.57,300.0,500,mg,Heart Disease
+Hazelnuts,Nuts & Seeds,Vitamin B12,0.63,2.4,500,mcg,Neurological Issues
+Hazelnuts,Nuts & Seeds,Fat,88.65,70.0,100,g,Obesity
+Hazelnuts,Nuts & Seeds,Vitamin D,1132.85,4000.0,10000,IU,Toxicity Symptoms
+Hazelnuts,Nuts & Seeds,Magnesium,458.06,400.0,1000,mg,Nerve Damage
+Hazelnuts,Nuts & Seeds,Carbohydrates,331.16,250.0,400,g,Obesity
+Hazelnuts,Nuts & Seeds,Selenium,67.2,55.0,400,mcg,Selenosis
+Hazelnuts,Nuts & Seeds,Copper,0.51,0.9,10,mg,Liver Damage
+Honey,Beverages & Others,Potassium,994.93,3500.0,4700,mg,Hyperkalemia
+Honey,Beverages & Others,Folic Acid,403.8,400.0,1000,mcg,Neurological Issues
+Honey,Beverages & Others,Vitamin B6,0.39,1.3,100,mg,Nerve Damage
+Honey,Beverages & Others,Vitamin K,64.55,120.0,500,mcg,Blood Clotting Issues
+Honey,Beverages & Others,Zinc,13.16,11.0,40,mg,Immune Dysfunction
+Honey,Beverages & Others,Magnesium,96.22,400.0,1000,mg,Nerve Damage
+Honey,Beverages & Others,Protein,57.51,50.0,200,g,Kidney Damage
+Honey,Beverages & Others,Vitamin A,1844.6,3000.0,10000,IU,Liver Toxicity
+Kale,Vegetable,Fiber,17.55,30.0,50,g,Digestive Issues
+Kale,Vegetable,Copper,0.9,0.9,10,mg,Liver Damage
+Kale,Vegetable,Sodium,3057.72,2300.0,3500,mg,Hypertension
+Kale,Vegetable,Selenium,80.79,55.0,400,mcg,Selenosis
+Kale,Vegetable,Phosphorus,867.76,700.0,4000,mg,Bone Loss
+Kale,Vegetable,Vitamin D,2106.3,4000.0,10000,IU,Toxicity Symptoms
+Kale,Vegetable,Vitamin K,114.57,120.0,500,mcg,Blood Clotting Issues
+Kale,Vegetable,Protein,30.16,50.0,200,g,Kidney Damage
+Kale,Vegetable,Saturated Fat,10.68,20.0,50,g,Heart Disease
+Kidney Beans,Legumes,Potassium,724.03,3500.0,4700,mg,Hyperkalemia
+Kidney Beans,Legumes,Magnesium,369.14,400.0,1000,mg,Nerve Damage
+Kidney Beans,Legumes,Vitamin A,2957.6,3000.0,10000,IU,Liver Toxicity
+Kidney Beans,Legumes,Cholesterol,262.32,300.0,500,mg,Heart Disease
+Kidney Beans,Legumes,Vitamin K,161.15,120.0,500,mcg,Blood Clotting Issues
+Kidney Beans,Legumes,Fat,58.89,70.0,100,g,Obesity
+Kidney Beans,Legumes,Vitamin E,12.49,15.0,1000,mg,Bleeding Issues
+Kidney Beans,Legumes,Iron,15.94,18.0,45,mg,Liver Damage
+Kidney Beans,Legumes,Vitamin B6,0.53,1.3,100,mg,Nerve Damage
+Kiwi,Fruit,Sodium,1093.28,2300.0,3500,mg,Hypertension
+Kiwi,Fruit,Saturated Fat,13.19,20.0,50,g,Heart Disease
+Kiwi,Fruit,Calcium,1224.11,1000.0,2500,mg,Kidney Stones
+Kiwi,Fruit,Copper,0.36,0.9,10,mg,Liver Damage
+Kiwi,Fruit,Vitamin B6,0.92,1.3,100,mg,Nerve Damage
+Kiwi,Fruit,Fat,81.94,70.0,100,g,Obesity
+Kiwi,Fruit,Carbohydrates,310.35,250.0,400,g,Obesity
+Kiwi,Fruit,Vitamin B12,3.35,2.4,500,mcg,Neurological Issues
+Kiwi,Fruit,Magnesium,560.48,400.0,1000,mg,Nerve Damage
+Kiwi,Fruit,Phosphorus,269.67,700.0,4000,mg,Bone Loss
+Kiwi,Fruit,Iron,14.18,18.0,45,mg,Liver Damage
+Kiwi,Fruit,Vitamin K,58.82,120.0,500,mcg,Blood Clotting Issues
+Lamb,Meat,Vitamin E,10.3,15.0,1000,mg,Bleeding Issues
+Lamb,Meat,Iron,23.5,18.0,45,mg,Liver Damage
+Lamb,Meat,Fat,69.64,70.0,100,g,Obesity
+Lamb,Meat,Fiber,38.02,30.0,50,g,Digestive Issues
+Lamb,Meat,Cholesterol,279.75,300.0,500,mg,Heart Disease
+Lamb,Meat,Vitamin C,76.62,90.0,2000,mg,Gastrointestinal Issues
+Lamb,Meat,Sodium,1896.03,2300.0,3500,mg,Hypertension
+Lamb,Meat,Potassium,2873.06,3500.0,4700,mg,Hyperkalemia
+Lamb,Meat,Saturated Fat,17.78,20.0,50,g,Heart Disease
+Lamb,Meat,Sugar,51.21,50.0,100,g,Diabetes
+Lentils,Legumes,Vitamin K,39.04,120.0,500,mcg,Blood Clotting Issues
+Lentils,Legumes,Sodium,3223.24,2300.0,3500,mg,Hypertension
+Lentils,Legumes,Iron,13.96,18.0,45,mg,Liver Damage
+Lentils,Legumes,Vitamin B12,0.82,2.4,500,mcg,Neurological Issues
+Lentils,Legumes,Omega-3,1.04,3.0,5,g,Blood Clot Issues
+Lentils,Legumes,Protein,68.9,50.0,200,g,Kidney Damage
+Lettuce,Vegetable,Vitamin E,15.8,15.0,1000,mg,Bleeding Issues
+Lettuce,Vegetable,Vitamin B6,1.43,1.3,100,mg,Nerve Damage
+Lettuce,Vegetable,Vitamin K,111.93,120.0,500,mcg,Blood Clotting Issues
+Lettuce,Vegetable,Zinc,3.14,11.0,40,mg,Immune Dysfunction
+Lettuce,Vegetable,Protein,32.73,50.0,200,g,Kidney Damage
+Lettuce,Vegetable,Fat,93.3,70.0,100,g,Obesity
+Lobster,Fish & Seafood,Selenium,16.12,55.0,400,mcg,Selenosis
+Lobster,Fish & Seafood,Protein,31.32,50.0,200,g,Kidney Damage
+Lobster,Fish & Seafood,Vitamin A,3281.2,3000.0,10000,IU,Liver Toxicity
+Lobster,Fish & Seafood,Vitamin D,4666.63,4000.0,10000,IU,Toxicity Symptoms
+Lobster,Fish & Seafood,Folic Acid,327.04,400.0,1000,mcg,Neurological Issues
+Lobster,Fish & Seafood,Cholesterol,229.41,300.0,500,mg,Heart Disease
+Lobster,Fish & Seafood,Calcium,528.24,1000.0,2500,mg,Kidney Stones
+Lychee,Fruit,Fiber,10.12,30.0,50,g,Digestive Issues
+Lychee,Fruit,Omega-3,2.8,3.0,5,g,Blood Clot Issues
+Lychee,Fruit,Zinc,10.46,11.0,40,mg,Immune Dysfunction
+Lychee,Fruit,Vitamin D,4081.41,4000.0,10000,IU,Toxicity Symptoms
+Lychee,Fruit,Vitamin B12,3.15,2.4,500,mcg,Neurological Issues
+Lychee,Fruit,Selenium,54.76,55.0,400,mcg,Selenosis
+Lychee,Fruit,Fat,73.99,70.0,100,g,Obesity
+Lychee,Fruit,Manganese,2.11,2.3,11,mg,Neurological Problems
+Mackerel,Fish & Seafood,Vitamin B6,1.58,1.3,100,mg,Nerve Damage
+Mackerel,Fish & Seafood,Iron,16.96,18.0,45,mg,Liver Damage
+Mackerel,Fish & Seafood,Manganese,2.98,2.3,11,mg,Neurological Problems
+Mackerel,Fish & Seafood,Potassium,3306.66,3500.0,4700,mg,Hyperkalemia
+Mackerel,Fish & Seafood,Sugar,53.93,50.0,100,g,Diabetes
+Mackerel,Fish & Seafood,Vitamin D,3829.93,4000.0,10000,IU,Toxicity Symptoms
+Mackerel,Fish & Seafood,Cholesterol,122.08,300.0,500,mg,Heart Disease
+Mackerel,Fish & Seafood,Selenium,19.29,55.0,400,mcg,Selenosis
+Mackerel,Fish & Seafood,Omega-3,1.84,3.0,5,g,Blood Clot Issues
+Mackerel,Fish & Seafood,Vitamin C,113.38,90.0,2000,mg,Gastrointestinal Issues
+Mackerel,Fish & Seafood,Vitamin B12,2.16,2.4,500,mcg,Neurological Issues
+Mackerel,Fish & Seafood,Carbohydrates,192.81,250.0,400,g,Obesity
+Mango,Fruit,Iron,17.49,18.0,45,mg,Liver Damage
+Mango,Fruit,Vitamin A,3441.95,3000.0,10000,IU,Liver Toxicity
+Mango,Fruit,Vitamin K,119.5,120.0,500,mcg,Blood Clotting Issues
+Mango,Fruit,Vitamin D,3433.09,4000.0,10000,IU,Toxicity Symptoms
+Mango,Fruit,Sugar,16.0,50.0,100,g,Diabetes
+Mango,Fruit,Vitamin C,20.42,90.0,2000,mg,Gastrointestinal Issues
+Mango,Fruit,Cholesterol,391.82,300.0,500,mg,Heart Disease
+Mango,Fruit,Fat,85.53,70.0,100,g,Obesity
+Milk,Dairy,Manganese,0.71,2.3,11,mg,Neurological Problems
+Milk,Dairy,Vitamin C,42.82,90.0,2000,mg,Gastrointestinal Issues
+Milk,Dairy,Phosphorus,207.08,700.0,4000,mg,Bone Loss
+Milk,Dairy,Iron,9.25,18.0,45,mg,Liver Damage
+Milk,Dairy,Fiber,34.32,30.0,50,g,Digestive Issues
+Milk,Dairy,Sugar,35.34,50.0,100,g,Diabetes
+Milk,Dairy,Vitamin B12,3.11,2.4,500,mcg,Neurological Issues
+Milk,Dairy,Protein,58.95,50.0,200,g,Kidney Damage
+Milk,Dairy,Saturated Fat,27.66,20.0,50,g,Heart Disease
+Milk,Dairy,Vitamin D,1468.04,4000.0,10000,IU,Toxicity Symptoms
+Millet,Grains,Protein,14.06,50.0,200,g,Kidney Damage
+Millet,Grains,Selenium,45.98,55.0,400,mcg,Selenosis
+Millet,Grains,Zinc,6.41,11.0,40,mg,Immune Dysfunction
+Millet,Grains,Folic Acid,343.97,400.0,1000,mcg,Neurological Issues
+Millet,Grains,Vitamin B12,0.68,2.4,500,mcg,Neurological Issues
+Millet,Grains,Magnesium,278.65,400.0,1000,mg,Nerve Damage
+Millet,Grains,Cholesterol,395.21,300.0,500,mg,Heart Disease
+Millet,Grains,Potassium,1944.92,3500.0,4700,mg,Hyperkalemia
+Molasses,Beverages & Others,Calcium,360.75,1000.0,2500,mg,Kidney Stones
+Molasses,Beverages & Others,Vitamin D,1166.95,4000.0,10000,IU,Toxicity Symptoms
+Molasses,Beverages & Others,Manganese,2.05,2.3,11,mg,Neurological Problems
+Molasses,Beverages & Others,Cholesterol,355.81,300.0,500,mg,Heart Disease
+Molasses,Beverages & Others,Fiber,43.34,30.0,50,g,Digestive Issues
+Molasses,Beverages & Others,Selenium,54.82,55.0,400,mcg,Selenosis
+Mushrooms,Vegetable,Phosphorus,438.14,700.0,4000,mg,Bone Loss
+Mushrooms,Vegetable,Carbohydrates,268.81,250.0,400,g,Obesity
+Mushrooms,Vegetable,Vitamin B12,1.81,2.4,500,mcg,Neurological Issues
+Mushrooms,Vegetable,Omega-3,1.09,3.0,5,g,Blood Clot Issues
+Mushrooms,Vegetable,Fat,64.15,70.0,100,g,Obesity
+Mushrooms,Vegetable,Vitamin A,2423.07,3000.0,10000,IU,Liver Toxicity
+Mushrooms,Vegetable,Sodium,495.15,2300.0,3500,mg,Hypertension
+Mushrooms,Vegetable,Vitamin E,20.93,15.0,1000,mg,Bleeding Issues
+Oats,Grains,Selenium,30.95,55.0,400,mcg,Selenosis
+Oats,Grains,Iron,21.71,18.0,45,mg,Liver Damage
+Oats,Grains,Cholesterol,433.46,300.0,500,mg,Heart Disease
+Oats,Grains,Saturated Fat,15.63,20.0,50,g,Heart Disease
+Oats,Grains,Vitamin K,105.08,120.0,500,mcg,Blood Clotting Issues
+Oats,Grains,Zinc,9.75,11.0,40,mg,Immune Dysfunction
+Oats,Grains,Vitamin A,2728.36,3000.0,10000,IU,Liver Toxicity
+Oats,Grains,Magnesium,363.83,400.0,1000,mg,Nerve Damage
+Oats,Grains,Calcium,614.66,1000.0,2500,mg,Kidney Stones
+Oats,Grains,Omega-3,1.32,3.0,5,g,Blood Clot Issues
+Oats,Grains,Vitamin B12,2.72,2.4,500,mcg,Neurological Issues
+Octopus,Fish & Seafood,Fiber,24.29,30.0,50,g,Digestive Issues
+Octopus,Fish & Seafood,Vitamin A,3408.94,3000.0,10000,IU,Liver Toxicity
+Octopus,Fish & Seafood,Calcium,949.87,1000.0,2500,mg,Kidney Stones
+Octopus,Fish & Seafood,Selenium,81.75,55.0,400,mcg,Selenosis
+Octopus,Fish & Seafood,Vitamin D,1179.43,4000.0,10000,IU,Toxicity Symptoms
+Octopus,Fish & Seafood,Iron,21.73,18.0,45,mg,Liver Damage
+Octopus,Fish & Seafood,Phosphorus,839.66,700.0,4000,mg,Bone Loss
+Octopus,Fish & Seafood,Vitamin K,25.73,120.0,500,mcg,Blood Clotting Issues
+Octopus,Fish & Seafood,Zinc,13.42,11.0,40,mg,Immune Dysfunction
+Octopus,Fish & Seafood,Sodium,2771.14,2300.0,3500,mg,Hypertension
+Onion,Vegetable,Calcium,1498.0,1000.0,2500,mg,Kidney Stones
+Onion,Vegetable,Vitamin C,110.78,90.0,2000,mg,Gastrointestinal Issues
+Onion,Vegetable,Iron,11.49,18.0,45,mg,Liver Damage
+Onion,Vegetable,Vitamin B6,1.0,1.3,100,mg,Nerve Damage
+Onion,Vegetable,Omega-3,1.65,3.0,5,g,Blood Clot Issues
+Onion,Vegetable,Saturated Fat,27.56,20.0,50,g,Heart Disease
+Onion,Vegetable,Potassium,2596.15,3500.0,4700,mg,Hyperkalemia
+Onion,Vegetable,Vitamin B12,2.94,2.4,500,mcg,Neurological Issues
+Orange,Fruit,Copper,1.2,0.9,10,mg,Liver Damage
+Orange,Fruit,Vitamin E,15.0,15.0,1000,mg,Bleeding Issues
+Orange,Fruit,Vitamin B12,1.5,2.4,500,mcg,Neurological Issues
+Orange,Fruit,Folic Acid,245.93,400.0,1000,mcg,Neurological Issues
+Orange,Fruit,Fat,89.93,70.0,100,g,Obesity
+Orange,Fruit,Vitamin K,44.5,120.0,500,mcg,Blood Clotting Issues
+Orange,Fruit,Sugar,41.53,50.0,100,g,Diabetes
+Orange,Fruit,Cholesterol,394.33,300.0,500,mg,Heart Disease
+Orange,Fruit,Phosphorus,825.03,700.0,4000,mg,Bone Loss
+Orange,Fruit,Potassium,1962.09,3500.0,4700,mg,Hyperkalemia
+Orange,Fruit,Magnesium,196.57,400.0,1000,mg,Nerve Damage
+Orange,Fruit,Iron,4.11,18.0,45,mg,Liver Damage
+Orange,Fruit,Vitamin D,3084.44,4000.0,10000,IU,Toxicity Symptoms
+Orange,Fruit,Sodium,2078.18,2300.0,3500,mg,Hypertension
+Oysters,Fish & Seafood,Vitamin B12,2.03,2.4,500,mcg,Neurological Issues
+Oysters,Fish & Seafood,Fiber,27.75,30.0,50,g,Digestive Issues
+Oysters,Fish & Seafood,Iron,7.73,18.0,45,mg,Liver Damage
+Oysters,Fish & Seafood,Protein,24.24,50.0,200,g,Kidney Damage
+Oysters,Fish & Seafood,Potassium,3336.21,3500.0,4700,mg,Hyperkalemia
+Oysters,Fish & Seafood,Vitamin E,20.58,15.0,1000,mg,Bleeding Issues
+Oysters,Fish & Seafood,Omega-3,3.01,3.0,5,g,Blood Clot Issues
+Papaya,Fruit,Fiber,37.47,30.0,50,g,Digestive Issues
+Papaya,Fruit,Calcium,311.2,1000.0,2500,mg,Kidney Stones
+Papaya,Fruit,Vitamin D,909.34,4000.0,10000,IU,Toxicity Symptoms
+Papaya,Fruit,Vitamin E,11.28,15.0,1000,mg,Bleeding Issues
+Papaya,Fruit,Copper,0.25,0.9,10,mg,Liver Damage
+Papaya,Fruit,Folic Acid,398.79,400.0,1000,mcg,Neurological Issues
+Papaya,Fruit,Sodium,1609.58,2300.0,3500,mg,Hypertension
+Papaya,Fruit,Manganese,2.55,2.3,11,mg,Neurological Problems
+Papaya,Fruit,Vitamin B6,1.34,1.3,100,mg,Nerve Damage
+Papaya,Fruit,Zinc,16.43,11.0,40,mg,Immune Dysfunction
+Papaya,Fruit,Vitamin B12,2.04,2.4,500,mcg,Neurological Issues
+Peanuts,Nuts & Seeds,Fat,35.27,70.0,100,g,Obesity
+Peanuts,Nuts & Seeds,Sodium,1163.73,2300.0,3500,mg,Hypertension
+Peanuts,Nuts & Seeds,Vitamin B6,0.94,1.3,100,mg,Nerve Damage
+Peanuts,Nuts & Seeds,Vitamin B12,1.95,2.4,500,mcg,Neurological Issues
+Peanuts,Nuts & Seeds,Fiber,10.62,30.0,50,g,Digestive Issues
+Peanuts,Nuts & Seeds,Vitamin E,3.43,15.0,1000,mg,Bleeding Issues
+Peanuts,Nuts & Seeds,Potassium,2278.61,3500.0,4700,mg,Hyperkalemia
+Peanuts,Nuts & Seeds,Phosphorus,541.73,700.0,4000,mg,Bone Loss
+Peanuts,Nuts & Seeds,Folic Acid,453.11,400.0,1000,mcg,Neurological Issues
+Peanuts,Nuts & Seeds,Vitamin C,101.39,90.0,2000,mg,Gastrointestinal Issues
+Peanuts,Nuts & Seeds,Vitamin A,1843.21,3000.0,10000,IU,Liver Toxicity
+Pear,Fruit,Fat,59.03,70.0,100,g,Obesity
+Pear,Fruit,Vitamin C,47.57,90.0,2000,mg,Gastrointestinal Issues
+Pear,Fruit,Omega-3,1.2,3.0,5,g,Blood Clot Issues
+Pear,Fruit,Sugar,17.56,50.0,100,g,Diabetes
+Pear,Fruit,Protein,53.37,50.0,200,g,Kidney Damage
+Pear,Fruit,Cholesterol,284.96,300.0,500,mg,Heart Disease
+Pear,Fruit,Carbohydrates,365.88,250.0,400,g,Obesity
+Peas,Vegetable,Vitamin B12,3.41,2.4,500,mcg,Neurological Issues
+Peas,Vegetable,Sodium,1088.08,2300.0,3500,mg,Hypertension
+Peas,Vegetable,Iron,25.1,18.0,45,mg,Liver Damage
+Peas,Vegetable,Carbohydrates,283.03,250.0,400,g,Obesity
+Peas,Vegetable,Fat,38.63,70.0,100,g,Obesity
+Peas,Vegetable,Vitamin B6,1.14,1.3,100,mg,Nerve Damage
+Peas,Vegetable,Vitamin A,1294.38,3000.0,10000,IU,Liver Toxicity
+Peas,Vegetable,Vitamin C,79.45,90.0,2000,mg,Gastrointestinal Issues
+Peas,Vegetable,Potassium,1451.67,3500.0,4700,mg,Hyperkalemia
+Peas,Vegetable,Fiber,41.03,30.0,50,g,Digestive Issues
+Peas,Vegetable,Selenium,35.35,55.0,400,mcg,Selenosis
+Pineapple,Fruit,Selenium,28.17,55.0,400,mcg,Selenosis
+Pineapple,Fruit,Sodium,1049.05,2300.0,3500,mg,Hypertension
+Pineapple,Fruit,Copper,0.98,0.9,10,mg,Liver Damage
+Pineapple,Fruit,Iron,19.04,18.0,45,mg,Liver Damage
+Pineapple,Fruit,Protein,45.37,50.0,200,g,Kidney Damage
+Pistachios,Nuts & Seeds,Selenium,49.06,55.0,400,mcg,Selenosis
+Pistachios,Nuts & Seeds,Vitamin E,3.62,15.0,1000,mg,Bleeding Issues
+Pistachios,Nuts & Seeds,Vitamin D,2042.96,4000.0,10000,IU,Toxicity Symptoms
+Pistachios,Nuts & Seeds,Copper,1.04,0.9,10,mg,Liver Damage
+Pistachios,Nuts & Seeds,Vitamin B12,0.58,2.4,500,mcg,Neurological Issues
+Pistachios,Nuts & Seeds,Protein,62.39,50.0,200,g,Kidney Damage
+Pistachios,Nuts & Seeds,Vitamin B6,1.61,1.3,100,mg,Nerve Damage
+Pistachios,Nuts & Seeds,Magnesium,277.08,400.0,1000,mg,Nerve Damage
+Pistachios,Nuts & Seeds,Carbohydrates,283.54,250.0,400,g,Obesity
+Pistachios,Nuts & Seeds,Folic Acid,586.22,400.0,1000,mcg,Neurological Issues
+Plum,Fruit,Manganese,1.65,2.3,11,mg,Neurological Problems
+Plum,Fruit,Protein,54.89,50.0,200,g,Kidney Damage
+Plum,Fruit,Vitamin A,4112.86,3000.0,10000,IU,Liver Toxicity
+Plum,Fruit,Vitamin D,3905.98,4000.0,10000,IU,Toxicity Symptoms
+Plum,Fruit,Vitamin C,30.11,90.0,2000,mg,Gastrointestinal Issues
+Plum,Fruit,Vitamin B12,3.24,2.4,500,mcg,Neurological Issues
+Plum,Fruit,Zinc,12.48,11.0,40,mg,Immune Dysfunction
+Plum,Fruit,Vitamin B6,0.96,1.3,100,mg,Nerve Damage
+Plum,Fruit,Copper,1.06,0.9,10,mg,Liver Damage
+Plum,Fruit,Vitamin K,118.06,120.0,500,mcg,Blood Clotting Issues
+Plum,Fruit,Folic Acid,539.43,400.0,1000,mcg,Neurological Issues
+Plum,Fruit,Phosphorus,470.49,700.0,4000,mg,Bone Loss
+Pomegranate,Fruit,Omega-3,1.2,3.0,5,g,Blood Clot Issues
+Pomegranate,Fruit,Vitamin A,3681.63,3000.0,10000,IU,Liver Toxicity
+Pomegranate,Fruit,Protein,49.77,50.0,200,g,Kidney Damage
+Pomegranate,Fruit,Copper,0.22,0.9,10,mg,Liver Damage
+Pomegranate,Fruit,Carbohydrates,117.13,250.0,400,g,Obesity
+Pomegranate,Fruit,Potassium,3595.37,3500.0,4700,mg,Hyperkalemia
+Pomegranate,Fruit,Vitamin C,94.77,90.0,2000,mg,Gastrointestinal Issues
+Pomegranate,Fruit,Iron,12.41,18.0,45,mg,Liver Damage
+Pomegranate,Fruit,Vitamin D,4487.78,4000.0,10000,IU,Toxicity Symptoms
+Pork,Meat,Saturated Fat,15.75,20.0,50,g,Heart Disease
+Pork,Meat,Vitamin C,88.65,90.0,2000,mg,Gastrointestinal Issues
+Pork,Meat,Vitamin K,116.05,120.0,500,mcg,Blood Clotting Issues
+Pork,Meat,Vitamin B12,0.58,2.4,500,mcg,Neurological Issues
+Pork,Meat,Magnesium,282.25,400.0,1000,mg,Nerve Damage
+Pork,Meat,Sodium,3127.94,2300.0,3500,mg,Hypertension
+Pork,Meat,Vitamin A,788.97,3000.0,10000,IU,Liver Toxicity
+Pork,Meat,Vitamin B6,1.38,1.3,100,mg,Nerve Damage
+Potato,Root & Tubers,Magnesium,355.32,400.0,1000,mg,Nerve Damage
+Potato,Root & Tubers,Fiber,8.98,30.0,50,g,Digestive Issues
+Potato,Root & Tubers,Protein,70.96,50.0,200,g,Kidney Damage
+Potato,Root & Tubers,Vitamin B6,1.13,1.3,100,mg,Nerve Damage
+Potato,Root & Tubers,Iron,26.76,18.0,45,mg,Liver Damage
+Potato,Root & Tubers,Sodium,2519.79,2300.0,3500,mg,Hypertension
+Potato,Root & Tubers,Vitamin C,111.1,90.0,2000,mg,Gastrointestinal Issues
+Pumpkin,Vegetable,Vitamin C,39.02,90.0,2000,mg,Gastrointestinal Issues
+Pumpkin,Vegetable,Vitamin E,14.45,15.0,1000,mg,Bleeding Issues
+Pumpkin,Vegetable,Phosphorus,285.82,700.0,4000,mg,Bone Loss
+Pumpkin,Vegetable,Fat,56.83,70.0,100,g,Obesity
+Pumpkin,Vegetable,Potassium,3435.58,3500.0,4700,mg,Hyperkalemia
+Pumpkin,Vegetable,Selenium,73.6,55.0,400,mcg,Selenosis
+Pumpkin,Vegetable,Sugar,32.41,50.0,100,g,Diabetes
+Pumpkin,Vegetable,Manganese,3.15,2.3,11,mg,Neurological Problems
+Quinoa,Grains,Vitamin C,57.74,90.0,2000,mg,Gastrointestinal Issues
+Quinoa,Grains,Selenium,27.54,55.0,400,mcg,Selenosis
+Quinoa,Grains,Omega-3,3.45,3.0,5,g,Blood Clot Issues
+Quinoa,Grains,Vitamin K,61.27,120.0,500,mcg,Blood Clotting Issues
+Quinoa,Grains,Vitamin A,1435.59,3000.0,10000,IU,Liver Toxicity
+Quinoa,Grains,Sugar,59.08,50.0,100,g,Diabetes
+Quinoa,Grains,Magnesium,428.33,400.0,1000,mg,Nerve Damage
+Quinoa,Grains,Cholesterol,143.17,300.0,500,mg,Heart Disease
+Quinoa,Grains,Vitamin D,5876.84,4000.0,10000,IU,Toxicity Symptoms
+Quinoa,Grains,Potassium,4668.4,3500.0,4700,mg,Hyperkalemia
+Quinoa,Grains,Copper,0.8,0.9,10,mg,Liver Damage
+Radish,Vegetable,Copper,0.19,0.9,10,mg,Liver Damage
+Radish,Vegetable,Potassium,3721.91,3500.0,4700,mg,Hyperkalemia
+Radish,Vegetable,Vitamin B6,0.83,1.3,100,mg,Nerve Damage
+Radish,Vegetable,Selenium,37.72,55.0,400,mcg,Selenosis
+Radish,Vegetable,Vitamin K,153.97,120.0,500,mcg,Blood Clotting Issues
+Radish,Vegetable,Saturated Fat,5.8,20.0,50,g,Heart Disease
+Radish,Vegetable,Iron,14.57,18.0,45,mg,Liver Damage
+Radish,Vegetable,Vitamin D,5321.18,4000.0,10000,IU,Toxicity Symptoms
+Radish,Vegetable,Omega-3,1.46,3.0,5,g,Blood Clot Issues
+Radish,Vegetable,Calcium,811.32,1000.0,2500,mg,Kidney Stones
+Radish,Vegetable,Manganese,2.11,2.3,11,mg,Neurological Problems
+Radish,Vegetable,Vitamin C,30.84,90.0,2000,mg,Gastrointestinal Issues
+Rye,Grains,Manganese,3.21,2.3,11,mg,Neurological Problems
+Rye,Grains,Magnesium,485.33,400.0,1000,mg,Nerve Damage
+Rye,Grains,Omega-3,2.41,3.0,5,g,Blood Clot Issues
+Rye,Grains,Vitamin B12,2.17,2.4,500,mcg,Neurological Issues
+Rye,Grains,Saturated Fat,12.97,20.0,50,g,Heart Disease
+Rye,Grains,Sodium,2497.27,2300.0,3500,mg,Hypertension
+Rye,Grains,Zinc,10.06,11.0,40,mg,Immune Dysfunction
+Rye,Grains,Vitamin K,137.83,120.0,500,mcg,Blood Clotting Issues
+Rye,Grains,Carbohydrates,242.56,250.0,400,g,Obesity
+Rye,Grains,Vitamin B6,1.69,1.3,100,mg,Nerve Damage
+Salmon,Fish & Seafood,Sugar,35.28,50.0,100,g,Diabetes
+Salmon,Fish & Seafood,Vitamin K,103.05,120.0,500,mcg,Blood Clotting Issues
+Salmon,Fish & Seafood,Carbohydrates,187.75,250.0,400,g,Obesity
+Salmon,Fish & Seafood,Phosphorus,852.0,700.0,4000,mg,Bone Loss
+Salmon,Fish & Seafood,Cholesterol,311.43,300.0,500,mg,Heart Disease
+Salmon,Fish & Seafood,Fat,40.15,70.0,100,g,Obesity
+Sardines,Fish & Seafood,Vitamin B6,1.67,1.3,100,mg,Nerve Damage
+Sardines,Fish & Seafood,Vitamin D,3225.74,4000.0,10000,IU,Toxicity Symptoms
+Sardines,Fish & Seafood,Vitamin K,145.3,120.0,500,mcg,Blood Clotting Issues
+Sardines,Fish & Seafood,Vitamin B12,2.71,2.4,500,mcg,Neurological Issues
+Sardines,Fish & Seafood,Omega-3,2.87,3.0,5,g,Blood Clot Issues
+Sardines,Fish & Seafood,Sodium,2087.18,2300.0,3500,mg,Hypertension
+Sardines,Fish & Seafood,Iron,24.05,18.0,45,mg,Liver Damage
+Sardines,Fish & Seafood,Vitamin E,6.9,15.0,1000,mg,Bleeding Issues
+Sardines,Fish & Seafood,Folic Acid,224.02,400.0,1000,mcg,Neurological Issues
+Sardines,Fish & Seafood,Sugar,64.97,50.0,100,g,Diabetes
+Sardines,Fish & Seafood,Fiber,12.32,30.0,50,g,Digestive Issues
+Seaweed,Fish & Seafood,Potassium,1717.6,3500.0,4700,mg,Hyperkalemia
+Seaweed,Fish & Seafood,Vitamin C,27.99,90.0,2000,mg,Gastrointestinal Issues
+Seaweed,Fish & Seafood,Omega-3,4.18,3.0,5,g,Blood Clot Issues
+Seaweed,Fish & Seafood,Manganese,0.61,2.3,11,mg,Neurological Problems
+Seaweed,Fish & Seafood,Calcium,1100.58,1000.0,2500,mg,Kidney Stones
+Seaweed,Fish & Seafood,Fiber,28.98,30.0,50,g,Digestive Issues
+Seaweed,Fish & Seafood,Carbohydrates,202.69,250.0,400,g,Obesity
+Sesame Seeds,Nuts & Seeds,Sugar,16.46,50.0,100,g,Diabetes
+Sesame Seeds,Nuts & Seeds,Phosphorus,526.6,700.0,4000,mg,Bone Loss
+Sesame Seeds,Nuts & Seeds,Protein,19.88,50.0,200,g,Kidney Damage
+Sesame Seeds,Nuts & Seeds,Fat,101.2,70.0,100,g,Obesity
+Sesame Seeds,Nuts & Seeds,Manganese,2.14,2.3,11,mg,Neurological Problems
+Sesame Seeds,Nuts & Seeds,Selenium,62.89,55.0,400,mcg,Selenosis
+Sesame Seeds,Nuts & Seeds,Omega-3,1.86,3.0,5,g,Blood Clot Issues
+Shrimp,Fish & Seafood,Omega-3,2.28,3.0,5,g,Blood Clot Issues
+Shrimp,Fish & Seafood,Vitamin C,58.29,90.0,2000,mg,Gastrointestinal Issues
+Shrimp,Fish & Seafood,Fat,52.52,70.0,100,g,Obesity
+Shrimp,Fish & Seafood,Vitamin K,64.2,120.0,500,mcg,Blood Clotting Issues
+Shrimp,Fish & Seafood,Cholesterol,248.27,300.0,500,mg,Heart Disease
+Shrimp,Fish & Seafood,Potassium,3781.51,3500.0,4700,mg,Hyperkalemia
+Shrimp,Fish & Seafood,Selenium,74.42,55.0,400,mcg,Selenosis
+Shrimp,Fish & Seafood,Calcium,816.34,1000.0,2500,mg,Kidney Stones
+Shrimp,Fish & Seafood,Folic Acid,194.56,400.0,1000,mcg,Neurological Issues
+Shrimp,Fish & Seafood,Vitamin B12,1.22,2.4,500,mcg,Neurological Issues
+Shrimp,Fish & Seafood,Copper,0.76,0.9,10,mg,Liver Damage
+Sorghum,Grains,Vitamin B12,2.27,2.4,500,mcg,Neurological Issues
+Sorghum,Grains,Sodium,2269.21,2300.0,3500,mg,Hypertension
+Sorghum,Grains,Fiber,12.96,30.0,50,g,Digestive Issues
+Sorghum,Grains,Iron,17.17,18.0,45,mg,Liver Damage
+Sorghum,Grains,Saturated Fat,9.83,20.0,50,g,Heart Disease
+Sorghum,Grains,Vitamin D,4552.7,4000.0,10000,IU,Toxicity Symptoms
+Sorghum,Grains,Vitamin C,106.11,90.0,2000,mg,Gastrointestinal Issues
+Sorghum,Grains,Vitamin B6,1.35,1.3,100,mg,Nerve Damage
+Soybeans,Legumes,Vitamin E,13.19,15.0,1000,mg,Bleeding Issues
+Soybeans,Legumes,Calcium,900.4,1000.0,2500,mg,Kidney Stones
+Soybeans,Legumes,Saturated Fat,17.81,20.0,50,g,Heart Disease
+Soybeans,Legumes,Phosphorus,902.56,700.0,4000,mg,Bone Loss
+Soybeans,Legumes,Iron,4.48,18.0,45,mg,Liver Damage
+Soybeans,Legumes,Protein,14.05,50.0,200,g,Kidney Damage
+Soybeans,Legumes,Sodium,1284.73,2300.0,3500,mg,Hypertension
+Soybeans,Legumes,Cholesterol,255.74,300.0,500,mg,Heart Disease
+Soybeans,Legumes,Vitamin K,79.76,120.0,500,mcg,Blood Clotting Issues
+Soybeans,Legumes,Fat,31.02,70.0,100,g,Obesity
+Spinach,Vegetable,Vitamin K,42.13,120.0,500,mcg,Blood Clotting Issues
+Spinach,Vegetable,Saturated Fat,26.78,20.0,50,g,Heart Disease
+Spinach,Vegetable,Vitamin D,2526.96,4000.0,10000,IU,Toxicity Symptoms
+Spinach,Vegetable,Magnesium,246.71,400.0,1000,mg,Nerve Damage
+Spinach,Vegetable,Folic Acid,363.36,400.0,1000,mcg,Neurological Issues
+Spinach,Vegetable,Protein,41.1,50.0,200,g,Kidney Damage
+Strawberry,Fruit,Vitamin C,43.59,90.0,2000,mg,Gastrointestinal Issues
+Strawberry,Fruit,Fat,81.62,70.0,100,g,Obesity
+Strawberry,Fruit,Zinc,3.63,11.0,40,mg,Immune Dysfunction
+Strawberry,Fruit,Copper,0.73,0.9,10,mg,Liver Damage
+Strawberry,Fruit,Carbohydrates,84.36,250.0,400,g,Obesity
+Sugar,Beverages & Others,Fat,88.37,70.0,100,g,Obesity
+Sugar,Beverages & Others,Fiber,6.77,30.0,50,g,Digestive Issues
+Sugar,Beverages & Others,Magnesium,403.1,400.0,1000,mg,Nerve Damage
+Sugar,Beverages & Others,Iron,22.98,18.0,45,mg,Liver Damage
+Sugar,Beverages & Others,Vitamin K,178.3,120.0,500,mcg,Blood Clotting Issues
+Sugar,Beverages & Others,Vitamin B6,1.3,1.3,100,mg,Nerve Damage
+Sugar,Beverages & Others,Saturated Fat,6.87,20.0,50,g,Heart Disease
+Sugar,Beverages & Others,Vitamin A,2288.91,3000.0,10000,IU,Liver Toxicity
+Sugar,Beverages & Others,Omega-3,1.22,3.0,5,g,Blood Clot Issues
+Sweet Potato,Root & Tubers,Vitamin K,61.39,120.0,500,mcg,Blood Clotting Issues
+Sweet Potato,Root & Tubers,Vitamin D,925.0,4000.0,10000,IU,Toxicity Symptoms
+Sweet Potato,Root & Tubers,Magnesium,172.73,400.0,1000,mg,Nerve Damage
+Sweet Potato,Root & Tubers,Vitamin A,1374.01,3000.0,10000,IU,Liver Toxicity
+Sweet Potato,Root & Tubers,Iron,24.08,18.0,45,mg,Liver Damage
+Tofu,Legumes,Vitamin K,49.95,120.0,500,mcg,Blood Clotting Issues
+Tofu,Legumes,Fiber,6.51,30.0,50,g,Digestive Issues
+Tofu,Legumes,Sugar,41.52,50.0,100,g,Diabetes
+Tofu,Legumes,Magnesium,201.16,400.0,1000,mg,Nerve Damage
+Tofu,Legumes,Cholesterol,169.82,300.0,500,mg,Heart Disease
+Tofu,Legumes,Potassium,1772.54,3500.0,4700,mg,Hyperkalemia
+Tofu,Legumes,Phosphorus,876.13,700.0,4000,mg,Bone Loss
+Tomato,Vegetable,Fiber,39.02,30.0,50,g,Digestive Issues
+Tomato,Vegetable,Manganese,0.66,2.3,11,mg,Neurological Problems
+Tomato,Vegetable,Iron,20.96,18.0,45,mg,Liver Damage
+Tomato,Vegetable,Vitamin C,24.63,90.0,2000,mg,Gastrointestinal Issues
+Tomato,Vegetable,Carbohydrates,106.74,250.0,400,g,Obesity
+Tomato,Vegetable,Calcium,881.16,1000.0,2500,mg,Kidney Stones
+Tomato,Vegetable,Vitamin A,996.17,3000.0,10000,IU,Liver Toxicity
+Tomato,Vegetable,Potassium,3640.49,3500.0,4700,mg,Hyperkalemia
+Tomato,Vegetable,Cholesterol,410.78,300.0,500,mg,Heart Disease
+Tuna,Fish & Seafood,Zinc,13.41,11.0,40,mg,Immune Dysfunction
+Tuna,Fish & Seafood,Sodium,3351.62,2300.0,3500,mg,Hypertension
+Tuna,Fish & Seafood,Manganese,2.83,2.3,11,mg,Neurological Problems
+Tuna,Fish & Seafood,Vitamin D,1177.74,4000.0,10000,IU,Toxicity Symptoms
+Tuna,Fish & Seafood,Vitamin B6,0.56,1.3,100,mg,Nerve Damage
+Tuna,Fish & Seafood,Protein,67.53,50.0,200,g,Kidney Damage
+Tuna,Fish & Seafood,Copper,1.3,0.9,10,mg,Liver Damage
+Tuna,Fish & Seafood,Potassium,3040.81,3500.0,4700,mg,Hyperkalemia
+Tuna,Fish & Seafood,Saturated Fat,24.41,20.0,50,g,Heart Disease
+Turkey,Meat,Vitamin E,18.3,15.0,1000,mg,Bleeding Issues
+Turkey,Meat,Potassium,4501.33,3500.0,4700,mg,Hyperkalemia
+Turkey,Meat,Magnesium,388.44,400.0,1000,mg,Nerve Damage
+Turkey,Meat,Folic Acid,295.46,400.0,1000,mcg,Neurological Issues
+Turkey,Meat,Carbohydrates,225.39,250.0,400,g,Obesity
+Turkey,Meat,Protein,25.74,50.0,200,g,Kidney Damage
+Turkey,Meat,Vitamin B6,0.98,1.3,100,mg,Nerve Damage
+Turkey,Meat,Iron,25.04,18.0,45,mg,Liver Damage
+Turmeric,Beverages & Others,Protein,25.66,50.0,200,g,Kidney Damage
+Turmeric,Beverages & Others,Selenium,42.2,55.0,400,mcg,Selenosis
+Turmeric,Beverages & Others,Sugar,43.37,50.0,100,g,Diabetes
+Turmeric,Beverages & Others,Magnesium,96.91,400.0,1000,mg,Nerve Damage
+Turmeric,Beverages & Others,Fiber,27.37,30.0,50,g,Digestive Issues
+Turmeric,Beverages & Others,Carbohydrates,284.54,250.0,400,g,Obesity
+Turmeric,Beverages & Others,Saturated Fat,5.99,20.0,50,g,Heart Disease
+Turmeric,Beverages & Others,Cholesterol,390.5,300.0,500,mg,Heart Disease
+Turmeric,Beverages & Others,Vitamin C,50.35,90.0,2000,mg,Gastrointestinal Issues
+Turmeric,Beverages & Others,Zinc,13.87,11.0,40,mg,Immune Dysfunction
+Turmeric,Beverages & Others,Folic Acid,393.53,400.0,1000,mcg,Neurological Issues
+Turmeric,Beverages & Others,Calcium,463.51,1000.0,2500,mg,Kidney Stones
+Walnuts,Nuts & Seeds,Iron,19.19,18.0,45,mg,Liver Damage
+Walnuts,Nuts & Seeds,Vitamin B12,3.34,2.4,500,mcg,Neurological Issues
+Walnuts,Nuts & Seeds,Omega-3,3.94,3.0,5,g,Blood Clot Issues
+Walnuts,Nuts & Seeds,Phosphorus,805.98,700.0,4000,mg,Bone Loss
+Walnuts,Nuts & Seeds,Potassium,4108.13,3500.0,4700,mg,Hyperkalemia
+Walnuts,Nuts & Seeds,Vitamin K,142.24,120.0,500,mcg,Blood Clotting Issues
+Walnuts,Nuts & Seeds,Carbohydrates,273.68,250.0,400,g,Obesity
+Walnuts,Nuts & Seeds,Vitamin E,10.77,15.0,1000,mg,Bleeding Issues
+Walnuts,Nuts & Seeds,Protein,66.26,50.0,200,g,Kidney Damage
+Watermelon,Fruit,Omega-3,1.87,3.0,5,g,Blood Clot Issues
+Watermelon,Fruit,Potassium,1673.32,3500.0,4700,mg,Hyperkalemia
+Watermelon,Fruit,Copper,1.33,0.9,10,mg,Liver Damage
+Watermelon,Fruit,Vitamin B6,1.63,1.3,100,mg,Nerve Damage
+Watermelon,Fruit,Magnesium,417.13,400.0,1000,mg,Nerve Damage
+Watermelon,Fruit,Calcium,1149.23,1000.0,2500,mg,Kidney Stones
+Watermelon,Fruit,Carbohydrates,264.86,250.0,400,g,Obesity
+Watermelon,Fruit,Sodium,1336.78,2300.0,3500,mg,Hypertension
+Wheat,Grains,Calcium,1032.0,1000.0,2500,mg,Kidney Stones
+Wheat,Grains,Vitamin C,43.35,90.0,2000,mg,Gastrointestinal Issues
+Wheat,Grains,Fiber,12.36,30.0,50,g,Digestive Issues
+Wheat,Grains,Sugar,54.48,50.0,100,g,Diabetes
+Wheat,Grains,Manganese,0.96,2.3,11,mg,Neurological Problems
+Wheat,Grains,Sodium,1996.23,2300.0,3500,mg,Hypertension
+Wheat,Grains,Cholesterol,80.83,300.0,500,mg,Heart Disease
+Wheat,Grains,Carbohydrates,185.98,250.0,400,g,Obesity
+Wheat,Grains,Potassium,1793.81,3500.0,4700,mg,Hyperkalemia
+Wheat,Grains,Vitamin D,5606.05,4000.0,10000,IU,Toxicity Symptoms
+Wheat,Grains,Protein,65.76,50.0,200,g,Kidney Damage
+Wheat,Grains,Fat,63.57,70.0,100,g,Obesity
+Whey Protein,Dairy,Vitamin K,81.01,120.0,500,mcg,Blood Clotting Issues
+Whey Protein,Dairy,Calcium,676.79,1000.0,2500,mg,Kidney Stones
+Whey Protein,Dairy,Magnesium,279.44,400.0,1000,mg,Nerve Damage
+Whey Protein,Dairy,Fiber,43.52,30.0,50,g,Digestive Issues
+Whey Protein,Dairy,Phosphorus,517.2,700.0,4000,mg,Bone Loss
+Whey Protein,Dairy,Vitamin B6,0.86,1.3,100,mg,Nerve Damage
+Whey Protein,Dairy,Vitamin B12,2.17,2.4,500,mcg,Neurological Issues
+Whey Protein,Dairy,Fat,59.94,70.0,100,g,Obesity
+Whey Protein,Dairy,Sodium,1176.35,2300.0,3500,mg,Hypertension
+White Rice,Grains,Omega-3,3.11,3.0,5,g,Blood Clot Issues
+White Rice,Grains,Cholesterol,84.83,300.0,500,mg,Heart Disease
+White Rice,Grains,Magnesium,581.09,400.0,1000,mg,Nerve Damage
+White Rice,Grains,Manganese,2.57,2.3,11,mg,Neurological Problems
+White Rice,Grains,Fiber,7.32,30.0,50,g,Digestive Issues
+White Rice,Grains,Sodium,2427.49,2300.0,3500,mg,Hypertension
+White Rice,Grains,Vitamin D,1664.61,4000.0,10000,IU,Toxicity Symptoms
+Yam,Root & Tubers,Copper,0.68,0.9,10,mg,Liver Damage
+Yam,Root & Tubers,Iron,6.05,18.0,45,mg,Liver Damage
+Yogurt,Dairy,Vitamin D,2866.59,4000.0,10000,IU,Toxicity Symptoms
+Yogurt,Dairy,Vitamin C,123.14,90.0,2000,mg,Gastrointestinal Issues
+Yogurt,Dairy,Omega-3,0.87,3.0,5,g,Blood Clot Issues
+Yogurt,Dairy,Vitamin K,59.73,120.0,500,mcg,Blood Clotting Issues
+Yogurt,Dairy,Fiber,32.27,30.0,50,g,Digestive Issues
+Yogurt,Dairy,Potassium,1870.77,3500.0,4700,mg,Hyperkalemia
+Yogurt,Dairy,Selenium,59.06,55.0,400,mcg,Selenosis
+Yogurt,Dairy,Magnesium,144.37,400.0,1000,mg,Nerve Damage
+Yogurt,Dairy,Calcium,875.0,1000.0,2500,mg,Kidney Stones
+Yogurt,Dairy,Fat,42.9,70.0,100,g,Obesity
+Yogurt,Dairy,Vitamin B12,2.79,2.4,500,mcg,Neurological Issues
+Yogurt,Dairy,Vitamin E,22.4,15.0,1000,mg,Bleeding Issues
+Yogurt,Dairy,Vitamin B6,1.57,1.3,100,mg,Nerve Damage
+Zucchini,Vegetable,Manganese,0.46,2.3,11,mg,Neurological Problems
+Zucchini,Vegetable,Vitamin A,3573.78,3000.0,10000,IU,Liver Toxicity
+Zucchini,Vegetable,Omega-3,3.18,3.0,5,g,Blood Clot Issues
+Zucchini,Vegetable,Carbohydrates,155.86,250.0,400,g,Obesity
+Zucchini,Vegetable,Vitamin C,27.93,90.0,2000,mg,Gastrointestinal Issues
+Zucchini,Vegetable,Selenium,26.23,55.0,400,mcg,Selenosis

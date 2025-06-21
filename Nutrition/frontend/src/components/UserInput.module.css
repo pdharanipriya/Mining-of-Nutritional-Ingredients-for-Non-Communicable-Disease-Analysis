@@ -1,0 +1,200 @@
+/* Container */
+.container {
+    width: 450px; /* Slightly reduced width */
+    height: 500px; /* Slightly reduced height */
+    margin: 50px auto;
+    padding: 35px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers input fields */
+    align-items: center; /* Centers horizontally */
+    overflow-y: auto;
+}
+
+/* Heading */
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 18px;
+}
+
+/* Labels */
+label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 8px 0 6px;
+    text-align: left;
+    width: 90%;
+}
+
+/* Input Fields & Dropdowns (Same Styling) */
+.select, .input {
+    width: 90%; /* Consistent width */
+    height: 45px; /* Slightly reduced height */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: #fff;
+    appearance: none; /* Removes default dropdown arrow */
+    cursor: pointer;
+}
+
+/* Dropdown Specific Styling */
+.select {
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='gray' d='M7 10l5 5 5-5z'/></svg>") no-repeat right 12px center;
+    background-size: 18px;
+    padding-right: 35px; /* Space for dropdown arrow */
+}
+
+/* Focus Styles */
+.select:focus, .input:focus {
+    border-color: #28a745;
+    outline: none;
+    box-shadow: 0 0 5px rgba(40, 167, 69, 0.3);
+}
+
+/* Button - Placed at Bottom */
+.button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, transform 0.2s ease;
+    margin-top: 20px;
+    width: 90%;
+}
+
+.button:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        height: auto;
+        padding: 30px;
+    }
+
+    .select, .input {
+        width: 95%;
+        font-size: 15px;
+        padding: 9px;
+    }
+
+    .button {
+        font-size: 15px;
+        padding: 10px 18px;
+    }
+}
+
+/* Scrollable form wrapper */
+.formContent {
+    max-height: 380px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+/* Food list display inside scrollable area */
+.foodList {
+    width: 90%;
+    margin-top: 10px;
+    padding: 0;
+    list-style: none;
+}
+
+.foodList li {
+    background-color: #f1f1f1;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Remove button in list */
+.removeBtn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.removeBtn:hover {
+    background-color: #c82333;
+}
+
+/* Add button below quantity input */
+.addButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    font-size: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 90%;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.addButton:hover {
+    background-color: #0069d9;
+    transform: scale(1.04);
+}
+
+/* List section for added items */
+.listSection {
+    margin-top: 20px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.list li {
+    margin: 5px 0;
+    background: #f5f5f5;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.removeButton {
+    background: red;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submitButton {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

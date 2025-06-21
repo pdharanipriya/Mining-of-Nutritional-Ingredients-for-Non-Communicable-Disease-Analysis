@@ -1,0 +1,83 @@
+.container {
+    max-width: 900px;
+    width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-height: 80vh; /* Restrict height to viewport height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Fix scrolling issues */
+.results {
+    flex: 1;
+    overflow-y: auto; /* Ensure content scrolls properly */
+    padding: 10px;
+}
+
+/* Style the scrollbar */
+.container::-webkit-scrollbar {
+    width: 10px;
+}
+
+.container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Titles and headers */
+.heading {
+    text-align: center;
+    color: #333;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+/* Exceeded nutrients section */
+.nutrient-card {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.nutrient-card:hover {
+    transform: scale(1.05);
+}
+
+.nutrient-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.nutrient-info {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Visualization chart container */
+.chart-container {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    margin: auto;
+}
